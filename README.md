@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeeva
-- 👀 I’m interested in Web Development, Mobile App Development and Game Development
+- 👀 I’m interested in Web Development, Artificial Intelligence & Machine Learning and Data Science.
 - 🌱 I’m currently learning Web Development
 - 🖋️ Currently pursuing Bachelor's of Engineering 
 - ✨ Hobbies: Reading Books, Creating Art and Writing.
